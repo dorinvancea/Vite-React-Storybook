@@ -18,7 +18,7 @@ Use @ to target `./src` folder, e.g:
 import { Button } from '@/stories/Button';
 <Button>This is a button</Button>
 ```
-### Alias config:
+### Alias configs:
 `./storybook/main.js`  
 `vite.config.js`
 
@@ -32,7 +32,8 @@ import { Button } from '@/stories/Button';
 ## Optional: Add other packages
 #### Styled Components: 
 `yarn add styled-components`  
-Usage styled components:
+
+Usage:
 ```
 import styled from 'styled-components';
 
