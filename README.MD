@@ -4,19 +4,19 @@ Basic setup for:
 Vite React: `https://vitejs.dev/`  
 Storybook: `https://storybook.js.org/`  
 
-Install:
+Install:  
 `yarn`
 
-Use:
+Use:  
 `yarn dev`
 `yarn storybook`
 
-Alias:
-Use @ to target `./src` folder:
+Alias:  
+Use @ to target `./src` folder:  
 ```
 import { Button } from '@/stories/Button';
 <Button>This is a button</Button>
 ```
-Alias config:
+Alias config:  
 `./storybook/main.js`
 `vite.config.js`
