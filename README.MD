@@ -15,5 +15,5 @@ import { Button } from '@/stories/Button';
 <Button>This is a button</Button>
 ```
 ### Alias config:
-`./storybook/main.js`
+`./storybook/main.js`  
 `vite.config.js`
