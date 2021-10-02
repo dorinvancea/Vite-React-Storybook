@@ -1,5 +1,5 @@
 # Vite + React + Storybook
-Basic setup for Vite with React and Storybook, including alias folders.
+Clean and basic setup for Vite with React and Storybook, including alias folders.
 
 ### Install:  
 `yarn`
