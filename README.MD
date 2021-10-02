@@ -32,12 +32,8 @@ import { Button } from '@/stories/Button';
 ## Optional: Add other packages
 #### Styled Components: 
 `yarn add styled-components`  
-<<<<<<< HEAD
 
 Usage:
-=======
-Usage styled components:
->>>>>>> main
 ```
 import styled from 'styled-components';
 
