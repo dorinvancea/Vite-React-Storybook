@@ -1,8 +1,8 @@
 # Vite + React + Storybook
 
-Basic setup for:
-Vite React: `https://vitejs.dev/`
-Storybook: `https://storybook.js.org/`
+Basic setup for:  
+Vite React: `https://vitejs.dev/`  
+Storybook: `https://storybook.js.org/`  
 
 Install:
 `yarn`
