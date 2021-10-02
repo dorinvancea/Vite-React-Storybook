@@ -1,5 +1,9 @@
 # Vite + React + Storybook
-Clean and basic setup for **Vite** with **React** and **Storybook**, including alias folders.
+Clean and basic setup for **Vite** with **React** and **Storybook**.   
+
+### Includes:
+- Alias folders for both Vite & Storybook
+- SASS/SCCS support
 
 ### Install:  
 `yarn`
