@@ -1,4 +1,5 @@
-import '@/styles/main.scss'
+import yourTheme from './YourTheme';
+import '../src/styles/main.scss'
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
@@ -8,4 +9,7 @@ export const parameters = {
       date: /Date$/,
     },
   },
+  docs: {
+    theme: yourTheme,
+  }
 }
